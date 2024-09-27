@@ -1,0 +1,25 @@
+Hello world, this is your kernel speaking.
+
+
+
+
+                    1         0
+                    1         0
+
+
+
+                         SeCOND
+
+
+
+
+
+
+
+
+
+Thread  2 (lock)      :  17
+Thread  3 (lock)      :  16
+
+
+
